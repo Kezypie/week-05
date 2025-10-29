@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HitungLuasSegitiga {
+public class segitiga{
 
     public static void main(String[] args) {
 
